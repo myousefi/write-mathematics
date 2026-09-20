@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mathematical Writing"
+  short_description: "Draft and review rigorous mathematical exposition"
+  default_prompt: "Use $write-mathematics to revise this mathematical text for correctness, reader-oriented structure, notation, and proof clarity."
