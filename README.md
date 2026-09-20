@@ -7,7 +7,7 @@ An agent skill for drafting, editing, explaining, and reviewing mathematical exp
 Install for Codex across projects with the [Vercel Skills CLI](https://github.com/vercel-labs/skills):
 
 ```sh
-npx skills add myousefi/write-mathemtics -g -a codex
+npx skills add myousefi/write-mathematics -g -a codex
 ```
 
 The repository contains one skill, defined in `SKILL.md`, with supporting material in `references/`.
